@@ -1,11 +1,23 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nikhitha1710/Nikhitha1710/main/download.gif" width="100%"/>
-</div>
+<div align="center" style="position: relative; overflow: hidden; max-height: 220px;">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+I+am+Nikhitha+%E2%98%81%EF%B8%8F;welcome+to+my+github!" alt="Typing SVG" />
-</div>
+  <img src="https://raw.githubusercontent.com/Nikhitha1710/Nikhitha1710/main/download.gif" width="100%" />
 
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Press Start 2P', monospace;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    line-height: 1.6;
+  ">
+    hey, I am Nikhitha ☁️ <br/>
+    welcome to my github!
+  </div>
+
+</div>
 ---
 
 ## 🪐 About Me
