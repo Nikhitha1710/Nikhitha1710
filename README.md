@@ -1,33 +1,22 @@
-<div align="center" style="position: relative; overflow: hidden; max-height: 220px;">
 
-  <img src="https://raw.githubusercontent.com/Nikhitha1710/Nikhitha1710/main/download.gif" width="100%" />
-
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: 'Press Start 2P', monospace;
-    font-size: 14px;
-    color: white;
-    text-align: center;
-    line-height: 1.6;
-  ">
-    hey, I am Nikhitha ☁️ <br/>
-    welcome to my github!
-  </div>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Nikhitha1710/Nikhitha1710/main/download.gif" width="60%"/>
 </div>
----
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hey%2C+I+am+Nikhitha+%E2%98%81%EF%B8%8F;welcome+to+my+github!" alt="Typing SVG" />
+</div>
+
+<div align="left">
+  
 ## 🪐 About Me
 
-🎓 Final year BSc Computer Science student @ University of London via SIM Singapore
-🚀 Continuously developing my programming skills and staying up to date with the latest tech trends
-✨ Interests: Machine Learning, Deep Learning, Generative AI, NLP and LLM models
-👩‍💻 Self-learner actively expanding my knowledge in AI and emerging technologies
-📈 Currently learning PyTorch and TensorFlow to deepen my Deep Learning foundations
-🌾 Personal Projects: Built AgroSense, a full-stack agricultural advisory system combining a C++ data pipeline, Python Random Forest model and a live JavaScript dashboard
+- 🎓 Final year BSc Computer Science student @ University of London via SIM Singapore
+- 🚀 Continuously developing my programming skills and staying up to date with the latest tech trends
+- ✨ Interests: Machine Learning, Deep Learning, Generative AI, NLP and LLM models
+- 👩‍💻 Self-learner actively expanding my knowledge in AI and emerging technologies
+- 📈 Currently learning PyTorch and TensorFlow to deepen my Deep Learning foundations
+- 🌾 Personal Projects: Built AgroSense, a full-stack agricultural advisory system combining a C++ data pipeline, Python Random Forest model and a live JavaScript dashboard
 
 ---
 
