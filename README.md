@@ -67,25 +67,16 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nikhitha1710&hide_border=true&ring=87AE73&fire=87AE73&currStreakLabel=87AE73&sideLabels=87AE73&dates=87AE73&stroke=87AE73&background=0d1117&currStreakNum=87AE73&sideNums=87AE73"/>
-
-</div>
-
-### 🌿 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhitha1710&bg_color=0d1117&color=87AE73&line=87AE73&point=87AE73&hide_border=true"/>
-
-</div>
-
-### 🌿 GitHub Stats
-
-<div align="center">
-
 <a href="https://github.com/Nikhitha1710">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhitha1710&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=87AE73&icon_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhitha1710&layout=compact&theme=dark&hide_border=true&title_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
 </a>
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nikhitha1710&hide_border=true&ring=87AE73&fire=87AE73&currStreakLabel=87AE73&sideLabels=87AE73&dates=87AE73&stroke=87AE73&background=0d1117&currStreakNum=87AE73&sideNums=87AE73"/>
+
+</div>
+<div align="center">
