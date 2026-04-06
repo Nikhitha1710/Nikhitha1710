@@ -30,7 +30,7 @@
 - 🌾 Personal Projects: Built AgroSense, a full-stack agricultural advisory system combining a C++ data pipeline, Python Random Forest model and a live JavaScript dashboard
 
 <div align="center">
-<h3>Technologies I Worked With 🪐</h3>  
+<h3>The Technologies I Worked With 🪐</h3>  
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@
 
 
 <div align="center">
-<h3>GitHub Stats🌱</h3>
+<h3>My GitHub Stats🌱</h3>
 </div>
 
 <div align="center">
@@ -76,7 +76,4 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nikhitha1710&hide_border=true&ring=87AE73&fire=87AE73&currStreakLabel=87AE73&sideLabels=87AE73&dates=87AE73&stroke=87AE73&background=0d1117&currStreakNum=87AE73&sideNums=87AE73"/>
 
-</div>
-<div align="center">
