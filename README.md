@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nikhitha1710/Nikhitha1710/main/banner.gif" width="100%"/>
-</div>
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=87AE73&center=true&vCenter=true&width=600&lines=hey%2C+I+am+Nikhitha+%F0%9F%8C%BF;welcome+to+my+github!+%E2%9C%A8;let%27s+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+I+am+Nikhitha+%E2%98%81%EF%B8%8F;welcome+to+my+github!" alt="Typing SVG" />
 </div>
 
 ---
