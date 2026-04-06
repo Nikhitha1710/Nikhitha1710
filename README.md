@@ -60,14 +60,8 @@
 <img src="https://img.shields.io/badge/MySQL-87AE73?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-### 🌿 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhitha1710&layout=compact&hide_border=true&title_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhitha1710&show_icons=true&hide_border=true&title_color=87AE73&icon_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
-
+<h3>🌿 GitHub Stats</h3>
 </div>
 
 ### 🌿 Contribution Streak
@@ -83,5 +77,27 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhitha1710&bg_color=0d1117&color=87AE73&line=87AE73&point=87AE73&hide_border=true"/>
+
+</div>
+### 🌿 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhitha1710&show_icons=true&hide_border=true&title_color=87AE73&icon_color=87AE73&text_color=87AE73&bg_color=0d1117&count_private=true"/>
+
+&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhitha1710&layout=compact&hide_border=true&title_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
+
+</div>
+
+### 🌿 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Nikhitha1710">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhitha1710&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=87AE73&icon_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhitha1710&layout=compact&theme=dark&hide_border=true&title_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
+</a>
 
 </div>
