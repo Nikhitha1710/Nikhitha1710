@@ -8,8 +8,16 @@
 </div>
 
 <div align="left">
-  
-## 🪐 About Me
+
+### Connect With Me
+
+<div align="center">
+<a href="mailto:sreenikhithach2@gmail.com"><img src="https://img.shields.io/badge/Gmail-87AE73?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cheparthi-sri-nikhitha-886b381b1"><img src="https://img.shields.io/badge/LinkedIn-87AE73?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://nikhithaprofessionalportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-87AE73?style=flat-square&logo=netlify&logoColor=white"/></a>
+</div>
+
+<h3>About Me ☁️</h3> 
 
 - 🎓 Final year BSc Computer Science student @ University of London via SIM Singapore
 - 🚀 Continuously developing my programming skills and staying up to date with the latest tech trends
@@ -18,17 +26,6 @@
 - 📈 Currently learning PyTorch and TensorFlow to deepen my Deep Learning foundations
 - 🌾 Personal Projects: Built AgroSense, a full-stack agricultural advisory system combining a C++ data pipeline, Python Random Forest model and a live JavaScript dashboard
 
----
-
-## 📌 Connect With Me
-
-<p align="left">
-<a href="mailto:sreenikhithach2@gmail.com"><img src="https://img.shields.io/badge/Gmail-87AE73?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cheparthi-sri-nikhitha-886b381b1"><img src="https://img.shields.io/badge/LinkedIn-87AE73?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://nikhithaprofessionalportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-87AE73?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
-
----
 
 ## 💻 Programming Languages
 
@@ -39,8 +36,6 @@
 <img src="https://img.shields.io/badge/JavaScript-87AE73?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-87AE73?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
-
----
 
 ## 📚 Libraries & Frameworks
 
@@ -54,8 +49,6 @@
 <img src="https://img.shields.io/badge/p5.js-87AE73?style=for-the-badge&logo=p5.js&logoColor=white"/>
 </p>
 
----
-
 ## 🌐 Web
 
 <p align="left">
@@ -65,8 +58,6 @@
 <img src="https://img.shields.io/badge/Node.js-87AE73?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-87AE73?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
-
----
 
 ## 🛠️ Tools
 
@@ -79,8 +70,6 @@
 <img src="https://img.shields.io/badge/Figma-87AE73?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-87AE73?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
