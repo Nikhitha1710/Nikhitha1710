@@ -69,7 +69,7 @@
 
 <a href="https://github.com/Nikhitha1710">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhitha1710&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=87AE73&icon_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhitha1710&layout=compact&theme=dark&hide_border=true&title_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhitha1710&layout=compact&theme=dark&hide=Jupyter%20Notebook&hide_border=true&title_color=87AE73&text_color=87AE73&bg_color=0d1117"/>
 </a>
 
 </div>
