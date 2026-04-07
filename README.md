@@ -25,7 +25,7 @@
 - 🎓 Final year BSc Computer Science student @ University of London via SIM Singapore
 - 🚀 Continuously developing my programming skills and staying up to date with the latest tech trends
 - ✨ Interests: Machine Learning, Deep Learning, Generative AI, NLP and LLM models
-- 👩‍💻 Self-learner actively expanding my knowledge in AI and emerging technologies
+- 👩‍💻 Self-learner actively expanding my knowledge in AI and ML
 - 📈 Currently learning PyTorch and TensorFlow to deepen my Deep Learning foundations
 - 🌾 Personal Projects: Built AgroSense, a full-stack agricultural advisory system combining a C++ data pipeline, Python Random Forest model and a live JavaScript dashboard
 
